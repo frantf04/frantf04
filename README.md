@@ -1,4 +1,4 @@
-![Banner de Johan Olmos](/banner.jpeg)
+![Banner de Johan Olmos](/banner.png)
 
 # Hi! 👋 I'm Johan Olmos
 
