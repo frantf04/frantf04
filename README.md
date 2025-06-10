@@ -6,22 +6,7 @@
 
 Welcome to my GitHub profile! I’m a passionate Full Stack Developer with over 4 years of experience, specializing in innovative technological solutions. I am committed to building efficient and scalable platforms, always eager to learn and explore emerging technologies.
 
----
 
-### 🚀 Highlighted Projects
-
-- [**PMU Online App**](https://pmu-online-app.vercel.app) - Web platform for managing and placing bets on French horse racing in real time, races offered by PMU. Specially designed for Quinté+ betting, it provides an intuitive, secure and optimized experience for bettors.
-- [**Bricaya System**](https://bricaaya-system.vercel.app) - Inventory and sales management system with an admin panel.
-- [**Aquino Tech**](https://portfolio.jfodev.com/works/aquinotech) - Mobile device repair service with home request form.
-- [**JFOBET TERMINAL**](https://portfolio.jfodev.com/works/terminal) - Interface for users to place bets on greyhound and horse races.
-- [**JFOBET BACKOFFICE**](https://portfolio.jfodev.com/works/backoffice) - Platform for managing and monitoring the performance of the betting system.
-- [**JFOBET CARRERAS**](https://portfolio.jfodev.com/works/carreras) - Interface for sports betting, enabling real-time match transmission.
-- [**Películas**](https://movies.jfodev.com/) - Web application for sharing information about currently trending movies.
-- [**GENPASS**](https://genpass.jfodev.com/) - Custom password generator based on user requirements.
-- [**NOTE**](https://note.jfodev.com/) - Web application for writing and saving notes easily.
-- [**TYPING**](https://typing.jfodev.com/) - Speed test that measures typing ability in 60 seconds.
-
----
 
 ### 🛠️ Technologies and Tools
 
